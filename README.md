@@ -15,6 +15,7 @@
   <img align="center" alt="REACT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="POSTGRESQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="LinuxMint" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linuxmint/linuxmint-original.svg">
+ <img align="center" alt="LinuxMint" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
 <br>
  
 ### Pra entrar em contato, segue os links abaixo!
